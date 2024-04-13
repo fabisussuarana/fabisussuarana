@@ -1,6 +1,6 @@
-## Hi! I'm Fabi Sussuarana! 😄
+## Olá! Me chamo Fabi Sussuarana! 😄
 
-- Technician in Computing for the Internet at IFAC
+- Técnica em Informática para Internet pelo IFAC
 - Cursando Sistemas de Informação na Uninorte
 
 <br>
