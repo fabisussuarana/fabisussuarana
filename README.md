@@ -1,7 +1,7 @@
 ## Olá! Me chamo Fabi Sussuarana! 😄
 
 - Técnica em Informática para Internet pelo IFAC
-- Cursando Sistemas de Informação na Uninorte
+- Cursando Sistemas de Informação
 
 <br>
 <div align="center">
